@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pckl
+
+# PyCharm
+.idea/
+
+# Docker
+server_image
+
+# Generated Files
+out.txt
+output.txt
+*.log
+
+# Other
+.~lock*
+*.rar
+*.pdf
+*.png
